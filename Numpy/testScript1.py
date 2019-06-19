@@ -1,0 +1,1 @@
+# First test script for Numpy lib
